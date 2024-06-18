@@ -24,7 +24,7 @@ Auto Sniper Bot
 Installation
 
 - Download the Zip file and unzip to your desired location.
-- Unzip _internal.zip library using winrar. When finished all files should be located inside the _internal directory except for Olorin_GUI.exe
+- Unzip _internal.zip library using winrar. When finished all files should be located inside the _internal directory except for Olorin_GUI.exe, LICENSE, and README.md
 - Run the Olorin_GUI.exe
 - On initial startup your configuration and tokens.txt files will automatically be created. This configuration file stores your settings each time you close the sniper so the next time you restart your settings are the same. The swap.txt file will contain the token addresses of tokens you want to auto-snipe.
 
