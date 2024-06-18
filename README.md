@@ -13,7 +13,7 @@ New Token Sniper
 
 Auto Sniper Bot
 
-- Presets for bull, bear, and nutral market conditions. Simply press a button to load presets that give you a starting point for configuring your buy/sell parameters. All parameters can be manually adjusted to the user's liking.
+- Presets for bull, bear, and neutral market conditions. Simply press a button to load presets that give you a starting point for configuring your buy/sell parameters. All parameters can be manually adjusted to the user's liking.
 - Default parameters include (details for each indicator below): Trailing Stop Trigger Price, Trailing Stop Percentage, Overall Stop Loss Percentage, Skip If Price Drops Percentage, Volume 24h, Liquidity (USD), Price Change % (5m,1h,6h,24h), and Max Positions.
 - Additioal parameters such as Mean Reversion Buying Strategy using RSI and MACD calculations can be unlocked with a Birdeye API key (not free). 
 - Automatically fetches Top 150 Tokens (by 24h Volume), Top 50 Trending Tokens, and 50 Most Recently Minted Tokens. This feature is supported by our servers so an API key is NOT needed.
