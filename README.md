@@ -22,7 +22,7 @@ Auto Sniper Bot
 - Price monitoring. Open positions are monitored for price changes every minute and as soon as the token price hits one of your sell thresholds the bot quickly sells out of your entire position for you utilizing your trailing stop settings.
 - Manual Token List - Build your own token list by simply listing the token contract addresses one per line in the swap.txt file.
 - Use your own RPC endpoint for better reliability and faster sniping (Free Helius RPC enpoint works great and is highly recommended).
-- Future features coming soon. We're always builing to make this product even better!
+- Future features coming soon. We're always building to make this product even better!
 
 Installation
 
