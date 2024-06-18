@@ -44,7 +44,7 @@ Quick Start Instructions
 Auto-Sniper Parameters
 - Base Token Address - This is the contract address the auto-sniper will use to swap from and back to when a position is opened/closed. The default token is SOL and this cannot be changed at this time - Future integrations will allow swapping from other tokens.
 - Amount of Base Token - The amount of the base token you want the auto-sniper to use for each token swap. For example: 0.10 SOL per newly opened position.
-- RSI Time Period - Used only with Birdeye API trading strategy. This is used to caluculate RSI based on the number of periods the user prefers to use. If you aren't familiar with how RSI is caluclated you should read more about it before changing the default setting.
+- RSI Time Period - Used only with Birdeye API trading strategy. This is used to calculate RSI based on the number of periods the user prefers to use. If you aren't familiar with how RSI is calculated you should read more about it before changing the default setting.
 - MACD Time Period = Used only with Birdeye API trading strategy. These settings are for MACD slow,fast, and trigger moving averages to help determine when a trend turns bullish and when the indicator should trigger a buy/swap.
 - RSI Buy Threshold - The RSI threshold that will trigger a buy.
 - MACD Buy Threshold - The MACD threshold that will trigger a buy.
