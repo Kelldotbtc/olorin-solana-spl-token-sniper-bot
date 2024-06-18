@@ -73,6 +73,9 @@ Installation
 
 Quick Start Instructions
 
+- Download and Unzip all files.
+- Unzip _internal.zip and all libraries using winrar - all unzipped files should be in located inside the _internal directory when finished. The only file that should be outside of the _internal directory should be Olorin_GUI.exe.
+- Run Olorin_GUI.exe 
 - Create a new wallet (Backpack Recommended)
 - Fund the new wallet with some SOL
 - Copy the private key and paste it into the Wallet Private Key Field in Olorin using ctl+c/ctrl+v.
@@ -97,11 +100,6 @@ Auto-Sniper Parameters
 - Liquidity USD - This is the minimum liquidity a token should have before the bot will consider trading it.
 - Price Change Percentage (5m,1h,6h,24h) - The price increase a token should have over the specified periods of time before the bot will consider trading it.
 - Max Positions - The maximum number of positions the bot should have open at any given time. The bot will stop further Technical Analysis (TA) until the number of open positions falls below this number.
-
-Bot Fees
-- 0.001 SOL per trade fixed fee is added. This helps pay server costs and allows us to further develope this product.
-
-NOTE: Trading using this bot requires market knowledge and if the bot snipes a token it should not be considered safe or a good trade. Olorin is simply a tool to help traders profit but it in no way guarantees returns. As always, you should do your own research before making any trades in this highly volatile market. This being said, we wish you the best of luck and hope you enjoy this product! Please join our community on Telegram and leave your feedback. We love hearing from our users!
 - MACD Buy Threshold - The MACD threshold that will trigger a buy.
 - Trailing Stop Trigger Price - The percentage of the initial price paid for a token when the bot should start the trailing stop feature. For example if the setting is 1.2 then this will be triggered when the token price reaches 20% above the initial purchase price.
 - Trailing Stop Percentage - This is the percentage the price needs to fall to trigger a sell after the Trailing Stop Trigger Price is reached. For example if the token reaches 1.2% of the token price as in the example above, the position will be sold if the price drops by 2% within the next 60 seconds. If the price continues to increase, a sell will not engage until a 2% drop occurs. This is to help lock in higer profits and to prevent selling out of a position prematurely.
