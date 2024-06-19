@@ -62,3 +62,7 @@ Bot Fees
 - 0.001 SOL per trade fixed fee is added. This helps pay server costs and allows us to further develope this product.
 
 NOTE: Trading using this bot requires market knowledge and if the bot snipes a token it should not be considered safe or a good trade. Olorin is simply a tool to help traders profit but it in no way guarantees returns. As always, you should do your own research before making any trades in this highly volatile market. This being said, we wish you the best of luck and hope you enjoy this product! Please join our community on Telegram and leave your feedback. We love hearing from our users! Telegram: t.me/olorinpub
+
+Download Link:
+
+[Olorin_v1.0.0.0 Download](https://drive.google.com/file/d/188JG_nflGHjNukAvvvvIwvBaMsad5TpO/view?usp=sharing)
