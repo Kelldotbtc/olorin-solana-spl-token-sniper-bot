@@ -18,6 +18,7 @@ Auto Sniper Bot
 - Additional parameters such as Mean Reversion Buying Strategy using RSI and MACD calculations can be unlocked with a Birdeye API key (not free). 
 - Automatically fetches Top 150 Tokens (by 24h Volume), Top 50 Trending Tokens, and 50 Most Recently Minted Tokens. This feature is supported by our servers so an API key is NOT needed.
 - Token Security Check. All tokens are checked against the Solana SPL-Token API to ensure Mint Authority and Freeze Authority have been revoked. Tokens that have not had both of these authorities revoked are skipped due to the high likelihood of rugpulling. This feature does not require an API key from the user since it only requires the default Solana endpoint.
+- NEW Feature added to this current release. Rugcheck.xyz implementation complete. Olorin now checks each token for a rugcheck score and skips tokens that score poorly.
 - Token Technical Analysis is conducted periodically on your token list so that tokens in the list are sniped as soon as your buying criteria are met.
 - Price monitoring. Open positions are monitored for price changes every minute and as soon as the token price hits one of your sell thresholds the bot quickly sells out of your entire position for you utilizing your trailing stop settings.
 - Manual Token List - Build your own token list by simply listing the token contract addresses one per line in the swap.txt file.
