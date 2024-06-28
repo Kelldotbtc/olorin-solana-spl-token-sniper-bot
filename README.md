@@ -6,7 +6,7 @@ Features:
 New Token Sniper 
 
 - Snipe any new token using the token contract address as soon as the liquidity pool opens. This is faster than using a Telegram sniper like Unibot because you can use your own RPC endpoint rather than relying on a public endpoint.
-- Set custom slippage amount default is set at 3000 bps.
+- Set custom slippage amount default is set at 300 bps.
 - Set number of retries.
 - Swap all feature allows the user to quickly and easily swap out of their entire position.
 - Use your own RPC endpoint for better reliability and faster sniping (Free Helius RPC enpoint works great and is highly recommended).
@@ -59,6 +59,7 @@ Auto-Sniper Parameters
 - Liquidity USD - This is the minimum liquidity a token should have before the bot will consider trading it.
 - Price Change Percentage (5m,1h,6h,24h) - The price increase a token should have over the specified periods of time before the bot will consider trading it.
 - Max Positions - The maximum number of positions the bot should have open at any given time. The bot will stop further Technical Analysis (TA) until the number of open positions falls below this number.
+- Auto Refresh - Auto-refreshes the token list being sniped each time TA is run on the list.
 
 Bot Fees
 - 0.001 SOL per trade fixed fee is added. This helps pay server costs and allows us to further develope this product.
@@ -67,4 +68,4 @@ NOTE: Trading using this bot requires market knowledge and if the bot snipes a t
 
 The latest fully compiled version of Olorin can be downloaded from here:
 
-[Olorin_v1.zip](https://drive.google.com/file/d/1pYKoqiMefZgmdfN8K2ebgkJXfh6KrU-Y/view?usp=sharing)
+[Olorin_v1.2a](https://drive.google.com/file/d/1pYKoqiMefZgmdfN8K2ebgkJXfh6KrU-Y/view?usp=sharing)
