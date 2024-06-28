@@ -35,7 +35,7 @@ Installation
 
 Quick Start Instructions
 
-- Create a new wallet (any wallet will do). Note: Please never connect your main wallet to any apps even if they are trusted.
+- Create a new wallet (any Solana wallet will do, e.g. Phantom, Backpack, Solflare). Note: Please never connect your main wallet to any apps even if they are trusted.
 - Fund the new wallet with some SOL
 - Copy the private key and paste it into the Wallet Private Key Field in Olorin using ctl+c/ctrl+v.
 - Go to Helius and get your free RPC endpoint (optional but recommended).
