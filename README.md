@@ -38,6 +38,7 @@ Installation
 - If you don't have winrar already installed you can download the latest zipped version of Olorin [here](https://drive.google.com/file/d/1pYKoqiMefZgmdfN8K2ebgkJXfh6KrU-Y/view?usp=sharing)
 - Run the Olorin_GUI.exe
 - On initial startup your configuration and tokens.txt files will automatically be created. This configuration file stores your settings each time you close the sniper so the next time you restart your settings are the same. The swap.txt file will contain the token addresses of tokens you want to snipe with the auto-sniper.
+
 - NOTE: You WILL get an unknown publisher warning when running the bot for the first time. This is only because I haven't paid for a certificate and unless this project becomes much more successful I really don't intend to. To bypass this, click the more info link in the message and then click the run anyway button. It's an inconvenience I know but the warning will only pop up once when you first launch the bot. You shouldn't see that warning pop up again unless you update the bot.
 
 Quick Start Instructions
