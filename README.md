@@ -1,6 +1,8 @@
-![image](https://github.com/Kelldotbtc/olorin-solana-spl-token-sniper-bot/assets/172572822/5887aec3-c629-45a3-b856-8429ed181058)
+![image](https://github.com/Kelldotbtc/olorin-solana-spl-token-sniper-bot/assets/172572822/e73b7bb6-c36a-4a50-b555-da6ccaa5f666)
 
-![image](https://github.com/Kelldotbtc/olorin-solana-spl-token-sniper-bot/assets/172572822/f99fc2b7-66a5-4882-843e-c10ce0ad9d60)
+
+![image](https://github.com/Kelldotbtc/olorin-solana-spl-token-sniper-bot/assets/172572822/fc19a958-eaeb-48d7-8431-8a794447bbb1)
+
 
 
 
