@@ -78,4 +78,4 @@ NOTE: Trading using this bot requires market knowledge and if the bot snipes a t
 
 The latest fully compiled version of Olorin can be downloaded from here:
 
-[Olorin_v1.3a](https://drive.google.com/file/d/1pYKoqiMefZgmdfN8K2ebgkJXfh6KrU-Y/view?usp=sharing)
+[Olorin_v1.3b](https://drive.google.com/file/d/1pYKoqiMefZgmdfN8K2ebgkJXfh6KrU-Y/view?usp=sharing)
